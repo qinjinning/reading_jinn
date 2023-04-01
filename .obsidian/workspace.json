@@ -8,60 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e5e2754644de724",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "d0ead38999422fbf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d9c81e6db6bd330b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "46da2e9f495a0c79",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d5f8de5551df3651",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "60ffe7d59e4e0dff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wereading.md",
+                "file": "weread/文学/瓦尔登湖.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wereading.md",
+                "file": "weread/文学/瓦尔登湖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wereading.md",
+                "file": "weread/文学/瓦尔登湖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wereading.md"
+                "file": "weread/文学/瓦尔登湖.md"
               }
             }
           },
@@ -199,27 +158,33 @@
       "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "60ffe7d59e4e0dff",
+  "active": "d0ead38999422fbf",
   "lastOpenFiles": [
+    "weread/男生小说/大魏宫廷.md",
+    "reading/weread/男生小说/轮回乐园.md",
+    "weread/男生小说/轮回乐园.md",
+    "weread/男生小说",
+    "weread/经济理财/价值：我对投资的思考.md",
+    "weread/经济理财",
+    "weread/文学/瓦尔登湖.md",
+    "weread/文学",
     "wereading.md",
+    "weread",
+    "reading/weread/男生小说/大魏宫廷.md",
+    "reading/weread/男生小说",
+    "reading/weread/经济理财/价值：我对投资的思考.md",
+    "reading/weread/经济理财",
+    "reading/weread/文学/瓦尔登湖.md",
+    "reading/weread/文学",
+    "reading/weread",
+    "reading",
     "paper/time series/Patchtst.md",
     "paper/time series/日记.md",
     "paper/time series/Autoformer.md",
     "paper/time series/Dliner.md",
     "paper/time series/重要论文/patchtst.pdf",
-    "paper/time series/重要论文/Autoformer.pdf",
-    "paper/time series/重要论文/2110.02642.pdf",
-    "paper/time series/重要论文/s10618-020-00701-z.pdf",
-    "paper/time series/重要论文/s10845-021-01750-x.pdf",
-    "paper/time series/重要论文/DLiner.pdf",
-    "paper/time series/重要论文/s10845-022-02015-x.pdf",
-    "paper/time series/重要论文",
     "reading/weread/精品小说/紫金陈：高智商犯罪（全集）.md",
-    "paper/time series",
-    "reading/weread/经济理财/价值：我对投资的思考.md",
-    "paper",
     "reading/weread/男生小说/三寸人间.md",
-    "reading/weread/文学/瓦尔登湖.md",
     "reading/weread/计算机/C从入门到精通（第5版）.md",
     "daily/瑞幸/瑞幸.md",
     "reading/weread/男生小说/斗战狂潮.md",
@@ -231,12 +196,6 @@
     "reading/weread/男生小说/剑来.md",
     "reading/weread/男生小说/前任无双.md",
     "reading/weread/男生小说/我的1979.md",
-    "reading/weread/男生小说/诡秘之主.md",
-    "reading/weread/男生小说/大道朝天.md",
-    "reading/weread/男生小说/沧元图.md",
-    "reading/weread/男生小说/死人经.md",
-    "reading/weread/男生小说/斗罗大陆IV终极斗罗.md",
-    "reading/weread/男生小说/四万年无敌.md",
     "daily/瑞幸/attachments/生椰丝绒.png",
     "daily/瑞幸/attachments/Dirty.png",
     "daily/瑞幸/attachments/橙C美式.png",

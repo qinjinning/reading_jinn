@@ -14,7 +14,7 @@
     },
     {
       "name": "wr_skey",
-      "value": "iBMPgVAD"
+      "value": "B_Zb6my1"
     },
     {
       "name": "wr_pf",
@@ -41,12 +41,12 @@
       "value": "1"
     }
   ],
-  "noteLocation": "reading/weread",
+  "noteLocation": "weread",
   "dailyNotesLocation": "/",
   "insertAfter": "<!-- start of weread -->",
   "insertBefore": "<!-- end of weread -->",
   "dailyNotesFormat": "YYYY-MM-DD",
-  "lastCookieTime": 1680332790925,
+  "lastCookieTime": 1680365268008,
   "isCookieValid": true,
   "user": "sohor",
   "userVid": "60245037",

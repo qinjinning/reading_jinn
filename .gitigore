@@ -1,1 +1,13 @@
-.obsidian
+# Obsidian
+/.obsidian/workspace
+/.obsidian/plugins
+/.obsidian/snippets
+/.obsidian/themes
+/.obsidian/css
+/.obsidian/*.log
+
+# Mac .DS_Store
+.DS_Store
+
+# Git
+.gitignore
