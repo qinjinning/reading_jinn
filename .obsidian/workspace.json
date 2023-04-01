@@ -11,61 +11,49 @@
             "id": "6e5e2754644de724",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paper/time series/Dliner.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "d0ead38999422fbf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paper/time series/Dliner.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "d9c81e6db6bd330b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paper/time series/Dliner.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "46da2e9f495a0c79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paper/time series/Patchtst.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "d5f8de5551df3651",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "60ffe7d59e4e0dff",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/time series/Dliner.md",
+                "file": "wereading.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper/time series/Dliner.md",
+                "file": "wereading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper/time series/Dliner.md",
+                "file": "wereading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper/time series/Dliner.md"
+                "file": "wereading.md"
               }
             }
           },
@@ -211,8 +199,9 @@
       "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "d5f8de5551df3651",
+  "active": "60ffe7d59e4e0dff",
   "lastOpenFiles": [
+    "wereading.md",
     "paper/time series/Patchtst.md",
     "paper/time series/日记.md",
     "paper/time series/Autoformer.md",
@@ -248,7 +237,6 @@
     "reading/weread/男生小说/死人经.md",
     "reading/weread/男生小说/斗罗大陆IV终极斗罗.md",
     "reading/weread/男生小说/四万年无敌.md",
-    "reading/weread/男生小说/我师兄实在太稳健了.md",
     "daily/瑞幸/attachments/生椰丝绒.png",
     "daily/瑞幸/attachments/Dirty.png",
     "daily/瑞幸/attachments/橙C美式.png",
