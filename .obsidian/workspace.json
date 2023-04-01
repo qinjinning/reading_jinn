@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "10d177c9d026d010",
+    "type": "split",
+    "children": [
+      {
+        "id": "53ef3137aa7b453d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e5e2754644de724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paper/time series/Dliner.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0ead38999422fbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paper/time series/Dliner.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9c81e6db6bd330b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paper/time series/Dliner.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46da2e9f495a0c79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paper/time series/Patchtst.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5f8de5551df3651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paper/time series/Dliner.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4eff8924899ef23",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a8af486971e16a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba0efeefd4c790e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ed7ca4651015b70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "775ffc7269c6aabe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c32d6f003b65732",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fb24289f2479340",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5927c550a4d09c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "paper/time series/Dliner.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4197f651dd319b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "paper/time series/Dliner.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81d7efcb8ea07959",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "917238f0d19850c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "paper/time series/Dliner.md"
+              }
+            }
+          },
+          {
+            "id": "3503752cb613e7f0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-to-notion:Share to notion": false,
+      "dbfolder:创建一个新数据库表": false,
+      "obsidian-weread-plugin:Weread": false
+    }
+  },
+  "active": "d5f8de5551df3651",
+  "lastOpenFiles": [
+    "paper/time series/Patchtst.md",
+    "paper/time series/日记.md",
+    "paper/time series/Autoformer.md",
+    "paper/time series/Dliner.md",
+    "paper/time series/重要论文/patchtst.pdf",
+    "paper/time series/重要论文/Autoformer.pdf",
+    "paper/time series/重要论文/2110.02642.pdf",
+    "paper/time series/重要论文/s10618-020-00701-z.pdf",
+    "paper/time series/重要论文/s10845-021-01750-x.pdf",
+    "paper/time series/重要论文/DLiner.pdf",
+    "paper/time series/重要论文/s10845-022-02015-x.pdf",
+    "paper/time series/重要论文",
+    "reading/weread/精品小说/紫金陈：高智商犯罪（全集）.md",
+    "paper/time series",
+    "reading/weread/经济理财/价值：我对投资的思考.md",
+    "paper",
+    "reading/weread/男生小说/三寸人间.md",
+    "reading/weread/文学/瓦尔登湖.md",
+    "reading/weread/计算机/C从入门到精通（第5版）.md",
+    "daily/瑞幸/瑞幸.md",
+    "reading/weread/男生小说/斗战狂潮.md",
+    "reading/weread/精品小说/龙族Ⅴ：悼亡者的归来.md",
+    "reading/weread/男生小说/重生之都市修仙.md",
+    "reading/weread/男生小说/我有一座冒险屋.md",
+    "reading/weread/男生小说/全球高武.md",
+    "reading/weread/男生小说/飞剑问道.md",
+    "reading/weread/男生小说/剑来.md",
+    "reading/weread/男生小说/前任无双.md",
+    "reading/weread/男生小说/我的1979.md",
+    "reading/weread/男生小说/诡秘之主.md",
+    "reading/weread/男生小说/大道朝天.md",
+    "reading/weread/男生小说/沧元图.md",
+    "reading/weread/男生小说/死人经.md",
+    "reading/weread/男生小说/斗罗大陆IV终极斗罗.md",
+    "reading/weread/男生小说/四万年无敌.md",
+    "reading/weread/男生小说/我师兄实在太稳健了.md",
+    "daily/瑞幸/attachments/生椰丝绒.png",
+    "daily/瑞幸/attachments/Dirty.png",
+    "daily/瑞幸/attachments/橙C美式.png",
+    "daily/瑞幸/attachments/Pasted image 20230331205748.png",
+    "daily/瑞幸/attachments/碧螺知春.png",
+    "what.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
